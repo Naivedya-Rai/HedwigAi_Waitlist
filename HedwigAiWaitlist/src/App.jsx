@@ -1,8 +1,8 @@
 
 // App.js
 import React from 'react';
-import Page1 from './components/page1';
-import Page2 from './components/page2';
+import Page1 from './components/PageOne';
+import Page2 from './components/PageTwo';
 
 function App() {
   return (
